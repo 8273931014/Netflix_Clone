@@ -49,7 +49,7 @@ Netflix-Clone/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone [https://github.com/your-username/netflix-clone.git](https://github.com/8273931014/Netflix_Clone.git)
 ```
 
 ### 2. Open the Project
@@ -57,7 +57,7 @@ git clone https://github.com/your-username/netflix-clone.git
 Navigate to the project folder and open `index.html` in your browser.
 
 ```bash
-cd netflix-clone
+cd netflix_clone
 ```
 
 Then simply double-click `index.html` or use Live Server in VS Code.
@@ -89,6 +89,11 @@ Netflix-inspired homepage with:
 - Feature Sections
 - FAQ Section
 - Footer
+
+<img width="1896" height="818" alt="image" src="https://github.com/user-attachments/assets/24d59472-3b4a-433d-bef8-231e9ddade1d" />
+
+<img width="1896" height="935" alt="image" src="https://github.com/user-attachments/assets/1bbc49b0-e711-4d0f-a501-889e051d34d2" />
+
 
 ## 🤝 Contributing
 
