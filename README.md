@@ -2,7 +2,7 @@
 
 # Netflix Clone 🎬
 
-A responsive Netflix landing page clone built using **HTML** and **CSS**. This project recreates the look and feel of Netflix's homepage with a modern user interface, responsive design, and clean code structure.
+A responsive Netflix landing page clone built using **HTML** , **CSS** and **JavaScript** . This project recreates the look and feel of Netflix's homepage with a modern user interface, responsive design, and clean code structure.
 
 ## 📌 Project Overview
 
@@ -26,6 +26,7 @@ The project focuses on responsive web design principles to ensure a smooth user 
 
 - HTML
 - CSS
+- Javascript
 - Google Fonts
 - Flexbox
 - CSS Grid
@@ -38,7 +39,7 @@ Netflix-Clone/
 ├── index.html
 ├── style.css
 ├── favicon.ico
-│    
+│── script.js    
 │   
 │
 └── README.md
