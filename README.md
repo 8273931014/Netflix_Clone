@@ -6,7 +6,7 @@ A responsive Netflix landing page clone built using **HTML** , **CSS** and **Jav
 
 ## 📌 Project Overview
 
-This Netflix Clone is a front-end web development project designed to practice and enhance HTML and CSS skills. The website mimics the official Netflix landing page, including a navigation bar, hero section, feature highlights, FAQ section, and footer.
+This Netflix Clone is a front-end web development project designed to practice and enhance HTML ,CSS and Javascript skills. The website mimics the official Netflix landing page, including a navigation bar, hero section, feature highlights, FAQ section, and footer.
 
 The project focuses on responsive web design principles to ensure a smooth user experience across desktop, tablet, and mobile devices.
 
