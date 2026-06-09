@@ -305,3 +305,22 @@ footer .questions {
     flex-direction: column;
     gap: 23px;
 }
+
+.first {
+    opacity: 0;
+    transform: translateY(80px);
+    transition: all 1s ease;
+}
+
+.first.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+nav {
+    transition: background-color 0.3s ease;
+}
+
+.btn {
+    transition: all 0.3s ease;
+}
